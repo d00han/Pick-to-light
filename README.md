@@ -40,6 +40,10 @@ This project is an implementation of a "Put to Light" system designed to optimiz
 - Developed firmware for STM32 microcontrollers using the CAN protocol.
 - Implemented button input handling and seven-segment display management.
 
+<p align="center">
+  <img src="/assets/programming.jpg" alt="Programming" width="45%">
+</p>
+
 ### 5. Server-Side Service Creation:
 - Built a service in C# for the mini-PC, performing the following functions:
   - Communicating with the client’s server to receive tasks.
@@ -50,6 +54,11 @@ This project is an implementation of a "Put to Light" system designed to optimiz
 - Integrated the system at the client’s warehouse.
 - Tested functionality under real conditions.
 - Made refinements to enhance efficiency and usability.
+
+<p align="center">
+  <img src="/assets/assembly.jpg" alt="Assembly" width="45%">
+  <img src="/assets/test.jpg" alt="Test" width="45%">
+</p>
 
 ---
 
