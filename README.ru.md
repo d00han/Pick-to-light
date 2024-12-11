@@ -40,7 +40,7 @@
 - Реализация обработки ввода с кнопок и управления семисегментными индикаторами.
 
 <p align="center">
-  <img src="/assets/programming.jpg" alt="Programming" width="45%">
+  <img src="/assets/programming.jpg" alt="Programming" width="90%">
 </p>
 
 ### 5. Создание серверной службы:
