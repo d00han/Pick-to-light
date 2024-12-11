@@ -41,7 +41,7 @@ This project is an implementation of a "Put to Light" system designed to optimiz
 - Implemented button input handling and seven-segment display management.
 
 <p align="center">
-  <img src="/assets/programming.jpg" alt="Programming" width="45%">
+  <img src="/assets/programming.jpg" alt="Programming" width="90%">
 </p>
 
 ### 5. Server-Side Service Creation:
