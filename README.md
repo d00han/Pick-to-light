@@ -1,5 +1,6 @@
 # Put to Light System: Comprehensive Development Overview
-
+[![en](https://img.shields.io/badge/lang-en-red.svg)](/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](/README.ru.md)
 ## About the Project
 
 This project is an implementation of a "Put to Light" system designed to optimize the sorting process in a warehouse. The main goal of the system is to guide operators to the correct bins and indicate the quantity of items to place. The system was entirely designed, developed, and integrated by me.
@@ -28,6 +29,12 @@ This project is an implementation of a "Put to Light" system designed to optimiz
 ### 3. PCB Design and Module Assembly:
 - Designed and ordered PCBs.
 - Assembled components on the boards and tested the finished devices.
+
+<p align="center">
+  <img src="/assets/render_top.png" alt="PCB rendering top" width="45%">
+  <img src="/assets/render_bottom.png" alt="PCB rendering bottom" width="45%">
+</p>
+
 
 ### 4. Microcontroller Programming:
 - Developed firmware for STM32 microcontrollers using the CAN protocol.
@@ -106,6 +113,11 @@ This project highlights my comprehensive approach to development: from requireme
 ### 3. Разработка печатных плат и сборка модулей:
 - Проектирование и заказ печатных плат.
 - Монтаж компонентов на платы и тестирование готовых устройств.
+
+<p align="center">
+  <img src="/assets/render_top.png" alt="PCB rendering top" width="45%">
+  <img src="/assets/render_bottom.png" alt="PCB rendering bottom" width="45%">
+</p>
 
 ### 4. Программирование микроконтроллеров:
 - Разработка прошивки для микроконтроллеров STM32 с использованием протокола CAN.
